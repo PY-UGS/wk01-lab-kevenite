@@ -1,3 +1,4 @@
+//Lab 1 Question 2
 public class Switch {
     public static void main(String[] args) {
         String module = "CSC1009";
